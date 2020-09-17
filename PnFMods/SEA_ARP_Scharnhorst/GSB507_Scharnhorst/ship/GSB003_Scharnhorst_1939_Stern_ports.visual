@@ -97,33 +97,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CM094_Propeller3_L	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0030 0.0000	</row1>
-					<row2>	0.0000 -0.0030 1.0000 0.0000	</row2>
-					<row3>	-0.4147 -0.4255 -6.4656 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM095_Propeller3_R	</identifier>
-				<transform>
-					<row0>	1.1431 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.1431 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.1431 0.0000	</row2>
-					<row3>	0.0001 -0.5051 -6.4658 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM095_Propeller3_R_INDEX_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0030 0.0000	</row1>
-					<row2>	0.0000 -0.0030 1.0000 0.0000	</row2>
-					<row3>	0.4146 -0.4256 -6.4657 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_CM109_Leadsman_Platform	</identifier>
 				<transform>
 					<row0>	0.9943 0.0000 -0.1063 0.0000	</row0>

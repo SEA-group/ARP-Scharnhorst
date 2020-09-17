@@ -1,6 +1,6 @@
 <GGM058_280mm54_5_C34.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_ARP_Scharnhorst/GSB507_Scharnhorst/gun/GGM058_280mm54_5_C34_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Scharnhorst/GSB507_Scharnhorst/gun/lods/GGM058_280mm54_5_C34_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_ARP_Scharnhorst/GSB507_Scharnhorst/gun/GGM058_280mm54_5_C34	</nodefullVisual>
